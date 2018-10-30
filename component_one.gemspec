@@ -8,10 +8,9 @@ Gem::Specification.new do |s|
   s.name        = "component_one"
   s.version     = ComponentOne::VERSION
   s.authors     = ["Pedro Paiva"]
-  s.email       = ["pedro.paiva@fractaltecnologia.com.br"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of ComponentOne."
-  s.description = "TODO: Description of ComponentOne."
+  s.email       = ["pedro.paiva@example.com.br"]
+  s.summary     = "Summary of ComponentOne."
+  s.description = "Description of ComponentOne."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]

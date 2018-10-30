@@ -1,4 +1,4 @@
-# ComponentOne
+# Component One
 Short description and motivation.
 
 ## Usage

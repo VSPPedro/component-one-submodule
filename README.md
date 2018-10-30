@@ -27,4 +27,4 @@ Contribution directions go here.
 ## License
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-## Project used like submodule by [Cbra with submodules](https://github.com/VSPPedro/cbra-with-submodules)
+#### This project is used like a submodule in [Cbra with submodules](https://github.com/VSPPedro/cbra-with-submodules)
